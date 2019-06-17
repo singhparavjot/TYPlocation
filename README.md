@@ -1,4 +1,4 @@
-#TYPlocation
+# TYPlocation
 This is a test app for getting the users current location and show em their current latitude and logitude.
 Based on their current location the user wil see the nearest parking lots.
 Now based on the selected lot they have option to select a parking slot.
